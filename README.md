@@ -27,14 +27,14 @@ Ensure you have the following dependencies installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/image-similarity-comparator.git
-    cd image-similarity-comparator
+    git clone (https://github.com/niranjan-ellur/CVImageSimilarity.git)
+    cd CVImageSimilarity
     ```
 
 2. Run the script:
 
     ```bash
-    python image_similarity_comparator.py
+    python CVImageSimilarity.py
     ```
 
 3. Follow the prompts to enter the paths to the two folders containing images.
